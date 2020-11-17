@@ -1,1 +1,3 @@
 # maktab
+
+print("hello maktab")
